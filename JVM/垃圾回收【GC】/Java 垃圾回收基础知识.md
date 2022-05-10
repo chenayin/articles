@@ -285,7 +285,7 @@ null
 
 ### 2.2标记-整理
 
-![image-20220422181358239](https://adao-blog-pic.oss-cn-beijing.aliyuncs.com/pic/blog/image-20220422181358239.png)
+![标记-整理](https://adao-blog-pic.oss-cn-beijing.aliyuncs.com/pic/blog/标记整理.jpg)
 
 优点：内存碎片少
 
@@ -293,7 +293,7 @@ null
 
 ### 2.3复制
 
-![image-20220422181406226](https://adao-blog-pic.oss-cn-beijing.aliyuncs.com/pic/blog/image-20220422181406226.png)
+![复制](https://adao-blog-pic.oss-cn-beijing.aliyuncs.com/pic/blog/复制.jpg)
 
 优点：内存碎片少
 
